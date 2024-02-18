@@ -1,0 +1,22 @@
+
+.App {
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+
+.list, .planet-detail {
+  flex: 0.5;
+}
+
+.list ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+
+
